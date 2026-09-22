@@ -1,1 +1,15 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0">`n  <modelVersion>4.0.0</modelVersion>`n  <groupId>com.devops</groupId>`n  <artifactId>jenkins-lab</artifactId>`n  <version>1.0</version>`n  <build>`n    <sourceDirectory>src</sourceDirectory>`n    <plugins>`n      <plugin>`n        <artifactId>maven-compiler-plugin</artifactId>`n        <version>3.8.1</version>`n      </plugin>`n    </plugins>`n  </build>`n</project>
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.devops</groupId>
+  <artifactId>jenkins-lab</artifactId>
+  <version>1.0</version>
+  <build>
+    <sourceDirectory>src</sourceDirectory>
+    <plugins>
+      <plugin>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <version>3.8.1</version>
+      </plugin>
+    </plugins>
+  </build>
+</project>
